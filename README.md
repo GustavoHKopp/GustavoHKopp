@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gustavo Henrique Köpp, sou de Indaial-SC, atualmente trabalho como desenvolvedor fullstack.</p>
+<p align="left">Meu nome é Gustavo Henrique Köpp, sou de Indaial-SC e atualmente trabalho como desenvolvedor fullstack.</p>
 
 ###
 
